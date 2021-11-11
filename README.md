@@ -12,27 +12,13 @@
 
 <h2 align="center">Hi there 👋, I'm Amro!</h2>
 
-
-
-
 <h2>🏆 Github Profile Trophy</h2>
-## GitHub Contribution:
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-kamal&theme=radical" alt="amro-kamal" />
     <br><br>
     <img src="https://activity-graph.herokuapp.com/graph?username=amro-kamal&theme=react-dark" />
-</div>
 
-<p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=radical" alt="Amro's github stats"> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact&theme=radical" style="padding: 15px" /> -->
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=amro-kamal&theme=radical" />
-    <br><br>
-    
-</p>
-<br><br>
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=amro-kamal&column=9&theme=gruvbox&no-frame=true"/>
 
@@ -41,9 +27,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amro-kamal&theme=neon-palenight&hide_border=true)
+</div>
 
 
+
+
+<!-- <p align="center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=radical" alt="Amro's github stats"> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact&theme=radical" style="padding: 15px" /> -->
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=amro-kamal&theme=radical" />
+    <br><br>    
+</p>
+<br><br> -->
 
 
 
