@@ -24,9 +24,10 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg) -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/mkdir.png" />
-</p>  
+</p>   -->
+
 <h2 align="center">Hi there 👋, I'm Amro!</h2>
 
 
@@ -42,7 +43,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amro-kamal&theme=neon-palenight&hide_border=true)
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 
 
 <!-- ## My Repos
