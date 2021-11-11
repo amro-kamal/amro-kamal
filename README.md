@@ -16,16 +16,14 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-kamal&theme=radical" alt="amro-kamal" />
-    <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=amro-kamal&theme=react-dark" />
 
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=amro-kamal&column=9&theme=gruvbox&no-frame=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=amro-kamal&column=9&theme=gruvbox&no-frame=true"/>
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight)
+    ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
 
 </div>
 
