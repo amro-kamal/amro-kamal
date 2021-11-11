@@ -54,7 +54,6 @@
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=amro-kamal&repo=backpack_install&show_owner=true)](https://github.com/amro-kamal/backpack_install)
 
 
-<!-- **Languages and Tools:**   -->
 
 <!-- <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
