@@ -12,7 +12,7 @@
 
 <h2 align="center">Hi there 👋, I'm Amro!</h2>
 
-<h2>🏆 Github Profile Trophy</h2>
+<!-- <h2>🏆 Github Profile Trophy</h2> -->
 
 <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-kamal&theme=radical" alt="amro-kamal" />
