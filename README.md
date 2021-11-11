@@ -22,7 +22,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg) -->
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/mkdir.png" />
@@ -30,7 +30,7 @@
 <h2 align="center">Hi there 👋, I'm Amro!</h2>
 
 
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/amro-kamal" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<!-- <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/amro-kamal" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a> -->
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=amro-kamal&column=9&theme=gruvbox&no-frame=true"/>
@@ -45,7 +45,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-## My Repos
+<!-- ## My Repos
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=amro-kamal&repo=amro-kamal&show_owner=true)](https://github.com/amro-kamal/amro-kamal)
 
@@ -67,6 +67,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/vim.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/amro-kamal/amro-kamal/master/assets/vim.png"></code>   -->
 
-![](https://komarev.com/ghpvc/?username=amro-kamal)
+<!-- ![](https://komarev.com/ghpvc/?username=amro-kamal) -->
