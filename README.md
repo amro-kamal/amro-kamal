@@ -19,7 +19,13 @@
 
 
 </div>
+
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amro-kamal&theme=neon-palenight&hide_border=true)
 
 
 
