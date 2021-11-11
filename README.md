@@ -19,13 +19,12 @@
 
 
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=amro-kamal&column=9&theme=gruvbox&no-frame=true"/>
-
-    ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight)
-
-
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
-
 </div>
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
+
 
 
 
