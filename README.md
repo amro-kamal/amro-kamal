@@ -16,4 +16,4 @@
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amro-kamal&layout=compact)
