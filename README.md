@@ -10,3 +10,6 @@
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about  -->
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amro-kamal&theme=highcontrast&show_icons=true&count_private=true)
