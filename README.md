@@ -14,10 +14,8 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amro-kamal&theme=radical" alt="amro-kamal" />
-
-    <img src="https://github-readme-stats.vercel.app/api?username=amro-kamal&show_icons=true&theme=tokyonight" alt="amro-kamal" />
 
 </div>
 
